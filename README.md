@@ -37,7 +37,7 @@ To run the code:
    ```
 2. Clone the repository:
    ```
-   git clone https://github.com/shreyy2005/stock-portfolio-optimization.git
+   git clone https://github.com/ShreyasDole/stock-portfolio-optimization.git
    ```
 3. Navigate to the project directory:
    ```
